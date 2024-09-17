@@ -1,0 +1,24 @@
+* {
+	font-family: 'Poppins', sans-serif;
+}
+
+#about {
+	background-color: #00BFA6;
+	padding-top: 5rem;
+}
+
+#information {
+	padding-top: 5rem;
+}
+
+#contact {
+	padding-top: 5rem;
+}
+
+#footer {
+	background-color: #00BFA6;
+}
+
+#form {
+	padding-top: 6rem;
+}
